@@ -1,6 +1,6 @@
 /*
 File Name: Ch2Ex7.cpp
-Github URL:
+Github URL: https://github.com/clk2039/Ch2Ex7.git
 Programmer: Kit Miller
 Date: September 2025
 Requirements: Assuming the ocean levels rise 1.5 millimeters per year, write a program
